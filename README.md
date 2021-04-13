@@ -1,4 +1,4 @@
-# 3_column_preview_card_website
+# 3_column_preview_card_challenge
 
 I built this as part of a coding challeng from FrontEnd Mentor. It uses html and css. Some html starting code, style guide and images were provided.
 A link to the challenge can be found below:
